@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shreya S Kodler 👋
 
-<!--
-**shreyakodler29/shreyakodler29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Custom software developer. I build small, useful tools and ship them properly — live, working, and free to use.
 
-Here are some ideas to get you started:
+📧 **Contact:** shreyakodler29@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### 🗂️ Paperwork — Free Resume Builder
+A free, no-signup resume builder. Fill in your details once, switch between three real resume designs (Classic, Modern, Bold) live, and export a clean PDF — no login, no paywall, nothing leaves your browser.
+
+I built this because most "free" resume tools lock the actual PDF export behind a paywall or signup. This one doesn't.
+
+- 🔗 **Live tool:** [resume-builder-ten-lac.vercel.app](https://resume-builder-ten-lac.vercel.app/)
+- 💻 **Source code:** [github.com/shreyakodler29/resume_builder](https://github.com/shreyakodler29/resume_builder)
+- 🛠️ Built with: HTML, CSS, JavaScript — deployed on Vercel
+
+---
+
+*More projects coming soon.*
